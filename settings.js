@@ -10,13 +10,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "263777499942"
-global.ownername = "🦄Dream Guy Xeon"
+global.ownernomer = "2349121056093"
+global.ownername = "tv guy"
 global.ytname = "YT: Xeon"
 global.socialm = "GitHub: DGXeon"
 global.location = "India, Mizoram, Aizawl"
 
-global.ownernumber = '263777499942'  //creator number
+global.ownernumber = '2349121056093'  //creator number
 global.ownername = 'ᴸᴼᴿᴰᴛᴀɪʀᴀ ' //owner name
 global.botname = 'ᴸᴼᴿᴰᴛᴀɪʀᴀ Xbug6' //name of the bot
 
@@ -35,7 +35,7 @@ global.link = 'https://whatsapp.com/channel/0029VaY0Zq32P59piTo5rg0K'
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = true //auto recording
+global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
